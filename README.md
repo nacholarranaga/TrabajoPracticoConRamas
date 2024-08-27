@@ -1,1 +1,1 @@
-"Intento de generar un conflicto" 
+"Intento de conflico detro de nueva-funcionalidad" 
